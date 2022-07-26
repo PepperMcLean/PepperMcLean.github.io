@@ -1,0 +1,35 @@
+# Query: Front-end Developer
+# Including: ./jack/Development/Code/Website/react-frontend-dev-portfolio
+# ContextLines: 1
+
+6 results - 6 files
+
+~/Development/Code/Website/react-frontend-dev-portfolio/build/portfolio_shared_data.json:
+  3        "name": "Davina Griss",
+  4:       "titles": [ "Full-Stack Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+  5        "social": [
+
+~/Development/Code/Website/react-frontend-dev-portfolio/build/res_primaryLanguage.json:
+  84          "company": "DefOpenSource",
+  85:         "title": "Full-Stack Developer",
+  86          "years": "10.2019 - present",
+
+~/Development/Code/Website/react-frontend-dev-portfolio/build/res_secondaryLanguage.json:
+  84          "company": "DefOpenSource",
+  85:         "title": "Full-Stack Developer",
+  86          "years": "10.2019 - obecnie",
+
+~/Development/Code/Website/react-frontend-dev-portfolio/public/portfolio_shared_data.json:
+  3        "name": "Davina Griss",
+  4:       "titles": [ "Full-Stack Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+  5        "social": [
+
+~/Development/Code/Website/react-frontend-dev-portfolio/public/res_primaryLanguage.json:
+  84          "company": "DefOpenSource",
+  85:         "title": "Full-Stack Developer",
+  86          "years": "10.2019 - present",
+
+~/Development/Code/Website/react-frontend-dev-portfolio/public/res_secondaryLanguage.json:
+  84          "company": "DefOpenSource",
+  85:         "title": "Full-Stack Developer",
+  86          "years": "10.2019 - obecnie",
