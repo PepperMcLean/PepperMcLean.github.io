@@ -26,6 +26,19 @@ class App extends Component {
         },
         projects: [
           {
+            title: "Bridges and Bombs",
+            images: ["/images/bombs.png"],
+            startDate: "2022",
+            technologies: [
+              {class: "devicon-html5-plain", name: "HTML 5"},
+              {class: "devicon-css3-plain", name: "CSS 3"},
+              {class: "devicon-react-plain", name: "React"},
+              {class: "devicon-javascript-plain", name: "Javascript"},
+            ],
+            description: "A single page application where two players can play a game against each other with local co-op.",
+            url: "https://bridges-and-bombs.herokuapp.com/",
+          },
+          {
             title: "Wordle",
             images: ["/images/wordle2.webp","/images/wordle.png"],
             startDate: "2022",
@@ -39,7 +52,8 @@ class App extends Component {
               {class: "devicon-ruby-plain", name: "Ruby"},
               {class: "devicon-sqlite-plain", name: "SQLite"},
             ],
-            description: "This single page application displays a page where you can play a clone of the popular NYT game Wordle."
+            description: "This single page application displays a page where you can play a clone of the popular NYT game Wordle.",
+            url: "https://github.com/PepperMcLean/WordleClone",
           },
           {
             title: "Recipe Manager",
@@ -51,7 +65,8 @@ class App extends Component {
               {class: "devicon-ruby-plain", name: "Ruby"},
               {class: "devicon-sqlite-plain", name: "SQLite"},
             ],
-            description: "A recipe sharing website that allows users to create, share, and review recipes."
+            description: "A recipe sharing website that allows users to create, share, and review recipes.",
+            url: "https://github.com/PepperMcLean/RecipeManager",
           },
           {
             title: "Soundboard",
@@ -62,7 +77,8 @@ class App extends Component {
               {class: "devicon-css3-plain", name: "CSS 3"},
               {class: "devicon-javascript-plain", name: "Javascript"},
             ],
-            description: "A single page application that allows you to loop tracks and create songs."
+            description: "A single page application that allows you to loop tracks and create songs.",
+            url: "https://github.com/PepperMcLean/SoundBoard",
           }
         ],
         experience: [
